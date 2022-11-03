@@ -14,12 +14,12 @@
     <a href="https://www.instagram.com/igor.dantee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 </div>
 <br>
-<div align="center">
-  <h3>Stats<h3>
+
+  <h3 align="center">Stats<h3>
   <a href="https://github.com/IgDante">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgDante&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgDante&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
     
   ##
 
