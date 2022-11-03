@@ -1,5 +1,4 @@
-<div align="center"><h2> Dante aqui! </h2></div>
-
+<h2 align="center"> Dante aqui! </h2>
 
 <div align="center">
     <h3>Estudando atualmente:</h3>
@@ -12,16 +11,15 @@
     <h3>Redes sociais</h3>
     <a href="https://www.linkedin.com/in/igor-dante-5a69381b6/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
     <a href="https://www.instagram.com/igor.dantee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-</div>
 <br>
 
   <h3 align="center">Stats<h3>
   <a href="https://github.com/IgDante">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgDante&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgDante&layout=compact&langs_count=7&theme=dark"/>
-
-    
-  ##
+</div>   
+ 
+      ##
 
 <div align="center"> 
  
