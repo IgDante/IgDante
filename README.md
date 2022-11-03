@@ -25,6 +25,6 @@
 
 <div align="center"> 
  
-  ![Snake animation](https://github.com/rafaballerini/IgDante/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/IgDante/IgDante/blob/output/github-contribution-grid-snake.svg)
  
 </div>
